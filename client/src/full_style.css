@@ -1,0 +1,33 @@
+:root {
+    --primary: #752C88;
+    --secondary: #F29B35;
+    --text_color: #ffffff;
+}
+
+.category-color-fix {
+    background: var(--primary) !important;
+}
+
+.menu-color-fix,
+.menu-color-fix:hover {
+    color: #F29B35;
+    font-size: 1.2rem;
+}
+
+
+.heading-color-fix,
+.heading-color-fix:hover {
+    color: #752C88;
+}
+
+.sidebar-color-fix {
+    color: var(--primary);
+}
+
+.dashboard-color-fix {
+    background-color: var(--primary);
+}
+
+.product-color-fix {
+    background-color: var(--primary);
+}
